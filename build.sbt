@@ -4,7 +4,7 @@ version := "0.1"
 
 scalaVersion := "2.12.19"
 
-idePackagePrefix := Some("org.apache.spark.iml")
+//idePackagePrefix := Some("org.apache.spark.iml")
 
 val sparkVersion = "3.3.4"
 libraryDependencies ++= Seq(
